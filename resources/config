@@ -1,0 +1,5 @@
+width = 10
+height = 15
+tileSize = 35
+tilePadding = 4
+txtPadding = 20
